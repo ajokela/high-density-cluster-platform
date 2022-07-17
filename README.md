@@ -46,6 +46,12 @@ I would recommend test printing ```extra/Nameplate Long-Wide.stl``` or ```Namepl
 
 ----
 
+### Setting up Kubernetes
+
+Goto [ajokela/rpi-k8s-ansible](https://github.com/ajokela/rpi-k8s-ansible)
+
+----
+
 ![Uptime Platform for Raspberry Pi Mark III n18](images/IMG_9233.jpg?raw=true)
 
 ----
