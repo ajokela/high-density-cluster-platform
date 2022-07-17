@@ -8,7 +8,7 @@ Within folders in this repository, there are folders named ```extra```.  Each ``
 
 Using the models in this repository, a 3D printer, a few other parts and a bunch of time, you can create a platform of dense, single board computers.  
 
-Using [Uptime Lab's](https://uplab.pro/) [original](https://uplab.pro/2020/12/raspberry-pi-server-mark-iii/) accomodates 18 Raspberry Pi computers, with enough space for each RPi to have a PoE module.  A similar density of Pine64's [Rock64](https://www.pine64.org/devices/single-board-computers/rock64/) can also be achieved with the same models.  Using the ```Narrow``` and ```Wide``` body models in ```extra``` can be used when accomodate wider boards; namely allowing for the use the PCIe on the RockPro64.
+Using [Uptime Lab's](https://uplab.pro/) [original](https://uplab.pro/2020/12/raspberry-pi-server-mark-iii/) accomodates 18 Raspberry Pi computers, with enough space for each RPi to have a PoE module.  A similar density of Pine64's [Rock64](https://www.pine64.org/devices/single-board-computers/rock64/) can also be achieved with the same 3D models (minus the PoE modules -- generally, Rock64 do not suppoer PoE)..  Using the ```Narrow``` and ```Wide``` body models in ```extra``` can be used to accomodate wider boards; namely allowing for the use the PCIe on the RockPro64.
 
 ----
 
