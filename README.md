@@ -42,8 +42,11 @@ I would recommend test printing ```extra/Nameplate Long-Wide.stl``` or ```Namepl
 * [M5 nuts](https://www.mcmaster.com/catalog/128/3500)
 * Torx round head, [thread forming screws](https://www.mcmaster.com/catalog/128/3287) for plastic; these are only needed if you chose not to use PoE modules *or* you are using Pine64's Rock64, A64, or RockPro64, as well as Orange Pi PC and other similar form factor boards.
 * [ARCTIC P8 - 80 mm Case Fan](https://www.amazon.com/gp/product/B00NTUJZ36/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1)
-* [USB to 3-pin adapter cable](https://www.amazon.com/gp/product/B07JW73KVR/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1) (five are needed)
+* [USB to 3-pin adapter cable](https://www.amazon.com/gp/product/B07JW73KVR/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1) (five individual adapters are needed; one for each fan)
 
+----
+
+![Uptime Platform for Raspberry Pi Mark III n18](images/IMG_9233.jpg?raw=true)
 
 ----
 [Official website uplab.pro](https://uplab.pro/2020/12/raspberry-pi-server-mark-iii/)
